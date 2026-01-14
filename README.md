@@ -12,19 +12,19 @@ Ce guide est une "assurance survie" pour tout débutant. Écrit par un guitarist
 
 ---
 
-## 🛒 Acheter le Guide (Accès Immédiat)
+## 🛒 ACHETER LE GUIDE (Accès Immédiat)
 
-Pour soutenir le projet et obtenir votre exemplaire PDF, rendez-vous sur la boutique officielle :
+Pour obtenir votre exemplaire PDF et soutenir directement mon travail, utilisez la boutique officielle (Stripe sécurisé) :
 
 👉 **[Boutique Officielle GuitareToday](https://store.guitaretoday.com/downloads/guide-du-guitariste-debutant-evitez-les-pieges-gagnez-des-annees-de-pratique/)**
 
 ---
 
-### 🌐 Autres plateformes (Liens secondaires SEO)
+### 🌐 Liens secondaires (SEO & Plateformes)
 Retrouvez également ce guide sur nos plateformes partenaires :
-- [Acheter sur Gumroad](TON_LIEN_GUMROAD_ICI)
-- [Soutenir sur Ko-fi](TON_LIEN_KOFI_ICI)
-- [Rejoindre la communauté sur Patreon](https://www.patreon.com/guitaretoday)
+- **Ko-fi :** [Acheter sur Ko-fi](https://ko-fi.com/s/ac48315e5a)
+- **Gumroad :** [Acheter sur Gumroad](https://guitaretoday.gumroad.com/l/jfuzfw)
+- **Patreon :** [Rejoindre la communauté](https://www.patreon.com/guitaretoday)
 
 ---
-*Propulsé par [Guitaretoday.com](https://guitaretoday.com) - 2026**# guitariste-debutant
+*Propulsé par [Guitaretoday.com](https://guitaretoday.com) — Expertise, passion et vérité sur la guitare.*# guitariste-debutant
